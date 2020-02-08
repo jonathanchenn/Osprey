@@ -1,7 +1,7 @@
 import numpy
 
-from PySide.QtGui import QVBoxLayout
-from PySide.QtGui import QWidget
+from PySide2.QtWidgets import QVBoxLayout
+from PySide2.QtWidgets import QWidget
 
 from pyqtgraph import mkPen
 from pyqtgraph import PlotDataItem

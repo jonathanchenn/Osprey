@@ -1,4 +1,4 @@
-from PySide.QtGui import QGridLayout
+from PySide2.QtWidgets import QGridLayout
 
 from qGraph import QGraph
 

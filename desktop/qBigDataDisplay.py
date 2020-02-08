@@ -1,10 +1,10 @@
-from PySide.QtCore import Qt
+from PySide2.QtCore import Qt
 
-from PySide.QtGui import QFont
-from PySide.QtGui import QLabel
-from PySide.QtGui import QLineEdit
-from PySide.QtGui import QVBoxLayout
-from PySide.QtGui import QWidget
+from PySide2.QtGui import QFont
+from PySide2.QtWidgets import QLabel
+from PySide2.QtWidgets import QLineEdit
+from PySide2.QtWidgets import QVBoxLayout
+from PySide2.QtWidgets import QWidget
 
 from qDataDisplay import QDataDisplay
 

@@ -1,15 +1,15 @@
-from PySide.QtCore import Signal
-from PySide.QtCore import Slot
+from PySide2.QtCore import Signal
+from PySide2.QtCore import Slot
 
-from PySide.QtGui import QGridLayout
-from PySide.QtGui import QHBoxLayout
-from PySide.QtGui import QLabel
-from PySide.QtGui import QLineEdit
-from PySide.QtGui import QMainWindow
-from PySide.QtGui import QMessageBox
-from PySide.QtGui import QPushButton
-from PySide.QtGui import QWidget
-from PySide.QtGui import QVBoxLayout
+from PySide2.QtWidgets import QGridLayout
+from PySide2.QtWidgets import QHBoxLayout
+from PySide2.QtWidgets import QLabel
+from PySide2.QtWidgets import QLineEdit
+from PySide2.QtWidgets import QMainWindow
+from PySide2.QtWidgets import QMessageBox
+from PySide2.QtWidgets import QPushButton
+from PySide2.QtWidgets import QWidget
+from PySide2.QtWidgets import QVBoxLayout
 
 import constants
 
